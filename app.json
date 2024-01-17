@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-react-native-w-tailwind",
-    "slug": "expo-react-native-w-tailwind",
+    "name": "expo-tailwind",
+    "slug": "expo-tailwind",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.akira_fan.exporeactnativewtailwind"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1abab268-c969-4566-b198-8c0183e79764"
+      }
+    },
+    "owner": "akira_fan"
   }
 }
