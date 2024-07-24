@@ -13,3 +13,4 @@ Windows/Mac with Android run -> npx expo start --android
 Windows/Mac with Browser run -> npx expo start --web
 
 Mac with iPhone run -> npx expo start --ios
+np
